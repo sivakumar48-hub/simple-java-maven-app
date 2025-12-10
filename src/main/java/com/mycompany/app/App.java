@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Welcome to herbal organic world!";
+    private static final String MESSAGE = "Welcome to java coding!";
 
     public App() {}
 
